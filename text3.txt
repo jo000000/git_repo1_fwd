@@ -1,2 +1,4 @@
 wickedddd man 
-second file 
+second file
+-------------
+first try command line  
