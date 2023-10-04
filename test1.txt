@@ -1,2 +1,6 @@
-heloooo on master again
+heloooo
 it is first repo here for using git
+
+now in branch 
+
+after first push
