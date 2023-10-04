@@ -1,4 +1,4 @@
-wickedddd man 
+wickedddd man edit in main
 second file
 -------------
 first try command line 
