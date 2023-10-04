@@ -3,4 +3,7 @@ second file
 -------------
 first try command line 
 -----------
-branch second try cmd 
+branch second try cmd
+----- 
+another edit inside branch
+ 
